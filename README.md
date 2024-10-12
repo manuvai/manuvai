@@ -6,9 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuvai&show_icons=true&locale=en" alt="manuvai" /></p>
 
-- 🔭 Je travaille actuellement chez **Infotel Conseil**
-
-- 🌱 Je suis actuellement en **Master M2 MIAGE**
+- 🔭 Je suis **développeur web en freelance**
 
 - 👨‍💻 Mes projets sont visibles sur mon site [https://manuvai-rehua.fr/](https://manuvai-rehua.fr/)
 
